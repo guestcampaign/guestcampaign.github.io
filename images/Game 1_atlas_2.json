@@ -1,0 +1,123 @@
+﻿{"frames": {
+
+"Q1A1pngcopy":
+{
+	"frame": {"x":0,"y":1492,"w":1344,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1344,"h":124},
+	"sourceSize": {"w":1344,"h":124}
+},
+"Q1A3pngcopy":
+{
+	"frame": {"x":0,"y":993,"w":1982,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1982,"h":124},
+	"sourceSize": {"w":1982,"h":124}
+},
+"Q1A4":
+{
+	"frame": {"x":1054,"y":626,"w":992,"h":124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":992,"h":124},
+	"sourceSize": {"w":992,"h":124}
+},
+"Q3A1":
+{
+	"frame": {"x":1134,"y":0,"w":844,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":844,"h":127},
+	"sourceSize": {"w":844,"h":127}
+},
+"Q3A4":
+{
+	"frame": {"x":1034,"y":1618,"w":957,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":957,"h":127},
+	"sourceSize": {"w":957,"h":127}
+},
+"Q5A1":
+{
+	"frame": {"x":0,"y":1618,"w":1032,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1032,"h":127},
+	"sourceSize": {"w":1032,"h":127}
+},
+"Q5A2":
+{
+	"frame": {"x":0,"y":864,"w":1970,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1970,"h":127},
+	"sourceSize": {"w":1970,"h":127}
+},
+"Q5A3":
+{
+	"frame": {"x":0,"y":1119,"w":1881,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1881,"h":127},
+	"sourceSize": {"w":1881,"h":127}
+},
+"Q5A4":
+{
+	"frame": {"x":0,"y":1370,"w":1389,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1389,"h":120},
+	"sourceSize": {"w":1389,"h":120}
+},
+"Q8A3":
+{
+	"frame": {"x":0,"y":1248,"w":1647,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1647,"h":120},
+	"sourceSize": {"w":1647,"h":120}
+},
+"Q8A4":
+{
+	"frame": {"x":0,"y":1747,"w":980,"h":119},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":980,"h":119},
+	"sourceSize": {"w":980,"h":119}
+},
+"play":
+{
+	"frame": {"x":0,"y":432,"w":1052,"h":430},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1052,"h":430},
+	"sourceSize": {"w":1052,"h":430}
+},
+"score":
+{
+	"frame": {"x":1054,"y":432,"w":920,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":920,"h":192},
+	"sourceSize": {"w":920,"h":192}
+},
+"start":
+{
+	"frame": {"x":0,"y":0,"w":1132,"h":430},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1132,"h":430},
+	"sourceSize": {"w":1132,"h":430}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "21.0.4.39603",
+	"image": "Game 1_atlas_2.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
